@@ -5,6 +5,7 @@ on:
     workflows:
       - "test"
       - \!trigger\?
+      - '\!trigger-3'
     types:
       - in_progress
 
