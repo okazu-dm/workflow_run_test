@@ -4,6 +4,7 @@ on:
   workflow_run:
     workflows:
       - "test"
+      - "test3"
     types:
       - in_progress
 
