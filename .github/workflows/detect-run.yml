@@ -4,7 +4,6 @@ on:
   workflow_run:
     workflows:
       - "test"
-      - \!trigger\?
     types:
       - in_progress
 
