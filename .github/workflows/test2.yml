@@ -1,4 +1,4 @@
-name: "!triggerr?"
+name: "!trigger?"
 
 on:
   workflow_dispatch:
